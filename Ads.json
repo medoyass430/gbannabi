@@ -1,42 +1,35 @@
- {"ads":{
-
- "ShowAds":true,
-    "ShowLoadingAds":true,
-    "ClickCount":1,
-    "PriorityBanner":"admob",
-    "priorityInterstitial":"admob",
-    "PriorityNative":"admob",
-    "PriorityReward":"admob",
-    "IronAppKey":"",
-    "IronBanner":"DefaultBanner",
-    "IronInterstitial":"DefaultInterstitial",
-    "IronReward":"DefaultReward",
-    "MaxBanner":"xxxxxxxx",
-    "MaxInterstitial":"xxxxxxxx",
-    "MaxNative":"5",
-    "MaxReward":"",
-    "FanBanner":"",
-    "FanInterstitial":"",
-    "FanNative":"",
-    "AdmobBanner":"ca-app-pub-1563977956808072/6535747827",
-    "AdmobInterstitial":"ca-app-pub-1563977956808072/7299516226",
-    "AdmobNative":"ca-app-pub-1563977956808072/5487741100",
-    "admob_reward":"ca-app-pub-1563977956808072/5207188438"
-  },
-  "ControlApp":{
- "PlayerPackageName": "",
- "app_redirect":"no",
-"redirect_package_name":""
-    
+{
+    "ads": {
+        "applovin_inter": "",
+        "applovin_native": "",
+        "applovin_banner": "",
+        "facebook_inter": "",
+        "facebook_banner": "",
+        "facebook_native": "",
+        "admob_inter": "",
+        "admob_banner": "",
+        "admob_native": "",
+        "ironsource_banner": "DefaultBanner",
+        "ironsource_inter": "DefaultInterstitial",
+        "iron_appkey": "",
+        "app_logo": "https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg",
+        "app_name": "GB Annabi",
+        "welcome_text": "welcome to GB Annabi",
+        "first_activity_first_button_text": "help",
+        "first_activity_second_button_text": "go",
+        "dialog_title": "dialog title",
+        "dialog_text": "dialog text test from server",
+        "second_activity_first_button_text": "first button",
+        "second_activity_second_button_text": "second button",
+        "backup_activity_title": "progress activity",
+        "backup_activity_text": "this is a text from server to backup activity",
+        "done_activity_title": "done activity title",
+        "done_activity_text": "this is a text from server to done activity",
+        "done_activity_button_text": "open",
+        "app_redirect":"no",
+        "redirect_package_name":"com.example.test",
+        "banner_network_choice": "admob",
+        "interstisial_network_choice": "admob",
+        "native_network_choice": "admob"
     }
-
-
- 
-
-
-  
- 
-  
-
-
 }
